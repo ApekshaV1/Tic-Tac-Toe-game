@@ -1,0 +1,1 @@
+This is a simple console-based Tic-Tac-Toe game built using HTML , CSS and JavaScript. The game allows two players to take turns, marking spaces on a 3x3 grid. The first player to align three of their marks in a horizontal, vertical, or diagonal line wins. If all nine spaces are filled without a winner, the game results in a draw.
